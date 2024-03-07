@@ -1,7 +1,3 @@
-<h1 align="center" style="text-transform: uppercase">Jerzy Ignatowicz</h1>
-<p align="center">I am passionate about <strong>źdigital interactions</strong>. If you are as well, maybe we can work through some project?</p>
-<h2 align="center">Tech Stack</h2>
-<p align="center">
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
@@ -32,7 +28,9 @@
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![MD](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-</p>
+
+<h1 align="center" style="text-transform: uppercase">Jerzy Ignatowicz</h1>
+<p align="center">I am passionate about <strong>źdigital interactions</strong>. If you are as well, maybe we can work through some project?</p>
 <h2 align="center">Contact</h2>
 <p align="center">
   <a href="https://codepen.com/ignet" target="_blank">
