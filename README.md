@@ -37,9 +37,6 @@
   <a href="https://codepen.com/ignet" target="_blank">
     <img src="https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white" alt="codepen" />
   </a>
-  <a href="https://www.facebook.com/ignet.studio" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
-  </a>
   <a href="mailto:ignet.studio@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
