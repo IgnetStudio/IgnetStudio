@@ -30,7 +30,8 @@
 ![MD](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
 <h1 align="center" style="text-transform: uppercase">Jerzy Ignatowicz</h1>
-<p align="center">I am passionate about <strong>digital interactions</strong>. If you are as well, maybe we can work through some project?</p>
+<p align="center">I am passionate about <strong>digital interactions</strong>.</p>
+<p align="center">If you are as well, maybe we can work through some project?</p>
 <h2 align="center">Contact</h2>
 <p align="center">
   <a href="https://codepen.com/ignet" target="_blank">
